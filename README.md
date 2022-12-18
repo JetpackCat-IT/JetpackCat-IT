@@ -3,6 +3,8 @@
 - C#
 - JavaScript
 - SolidJS
+
+<a rel="me" href="https://mastodon.uno/@JetpackCat"></a>
 <!--
 **JetpackCat-IT/JetpackCat-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
