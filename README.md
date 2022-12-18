@@ -1,5 +1,8 @@
-### Hi there 👋
+### Self tought developer
 
+- C#
+- JavaScript
+- SolidJS
 <!--
 **JetpackCat-IT/JetpackCat-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
